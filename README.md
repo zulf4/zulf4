@@ -2,7 +2,7 @@
 <img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">
 <img width="50%" align="right" src="https://github-profile-trophy.vercel.app/?username=zulf4&margin-w=5&margin-h=5&column=3&title=Stars,Followers,Commit"">
 
-### 👋 Information about me
+### 👋 About me
 .
 
 ### Languages & Tools
